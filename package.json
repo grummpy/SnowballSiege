@@ -1,0 +1,11 @@
+{
+  "name": "snowballsiege",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Snowball Siege — 4-player local snow-fort arena",
+  "scripts": {
+    "test": "node --test tests/"
+    "start": "python3 server.py"
+  }
+}
